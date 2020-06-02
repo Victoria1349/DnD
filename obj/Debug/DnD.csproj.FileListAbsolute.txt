@@ -1,0 +1,9 @@
+V:\I\DnD\bin\Debug\DnD.exe.config
+V:\I\DnD\bin\Debug\DnD.exe
+V:\I\DnD\bin\Debug\DnD.pdb
+V:\I\DnD\obj\Debug\DnD.csprojAssemblyReference.cache
+V:\I\DnD\obj\Debug\DnD.Form1.resources
+V:\I\DnD\obj\Debug\DnD.Properties.Resources.resources
+V:\I\DnD\obj\Debug\DnD.csproj.GenerateResource.cache
+V:\I\DnD\obj\Debug\DnD.exe
+V:\I\DnD\obj\Debug\DnD.pdb
